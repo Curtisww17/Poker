@@ -1,0 +1,9 @@
+# Texas Hold 'Em
+COMP 220
+Written by Wesley Curtis, Adam Cramer, Jake Murphy
+
+Has a working AI that I (Wesley) created 
+that decides what to do based on the cards in 
+hand and the cards on the table. Has frameworks 
+for a GUI but did not get that hooked up with the 
+logic. The launcher is the Poker.java class.
